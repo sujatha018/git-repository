@@ -5,4 +5,7 @@ main () {
         factorial();
         reverse();
         pallindrom();
+	biggest3();
+        adding2();
+        fibanaci();
 }
